@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @1270809384
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋自动枪U净洗衣机app 下载网址：https://wwe.lanzous.com/iUswWnv5tad
+- 👀
+- 🌱
+- 💞️
+- 📫
 
 <!---
 1270809384/1270809384 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
